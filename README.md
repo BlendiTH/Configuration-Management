@@ -1,2 +1,2 @@
 # Configuration Management
-Homework reports for Linux Server Management course taught by Tero Karvinen
+Homework reports for Configuration Management Systems course taught by Tero Karvinen
